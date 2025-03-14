@@ -16,3 +16,5 @@ If you've finished the course, please add your name and github account in a Pull
 |Full Name| Github Account | 
 |--|--| 
 | Sadegh Dehyadgari | [Github](https://github.com/SadeghDehyadgari) | 
+| Neda Pourandish | [Github](https://github.com/eng-neda) | 
+
