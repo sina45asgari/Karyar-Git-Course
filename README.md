@@ -15,5 +15,6 @@ If you've finished the course, please add your name and github account in a Pull
 
 |Full Name| Github Account | 
 |--|--| 
-| fateme aliakbari | [Github](https://github.com/fateme-alk) | 
+| Sadegh Dehyadgari | [Github](https://github.com/SadeghDehyadgari) | 
 | Neda Pourandish | [Github](https://github.com/eng-neda) | 
+
