@@ -19,4 +19,6 @@ If you've finished the course, please add your name and github account in a Pull
 | Neda Pourandish | [Github](https://github.com/eng-neda) | 
 | Mohammad Amin Najafi | [Github](https://github.com/Amin-najafi) |
 | Fateme Mohseni | [Github](https://github.com/Fate-me) | 
+| sajjad yarahmadi 🐈‍⬛ | [Github](https://github.com/snoou) | 
+
 
