@@ -22,5 +22,5 @@ If you've finished the course, please add your name and github account in a Pull
 | Ali Moradi | [Github](https://github.com/alimoradi85) |
 | sajjad yarahmadi 🐈‍⬛ | [Github](https://github.com/snoou) | 
 | Melika Rezaei| [Github](https://github.com/melika-rezaei-143) |
-
+| Fereshte Mousavi | [Github](https://github.com/Fereshte-Mousavi) |
 
