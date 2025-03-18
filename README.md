@@ -18,5 +18,6 @@ If you've finished the course, please add your name and github account in a Pull
 | Sadegh Dehyadgari | [Github](https://github.com/SadeghDehyadgari) | 
 | Neda Pourandish | [Github](https://github.com/eng-neda) | 
 | Mohammad Amin Najafi | [Github](https://github.com/Amin-najafi) |
-| Fateme Mohseni | [Github](https://github.com/Fate-me) | 
+| Fateme Mohseni | [Github](https://github.com/Fate-me) |
+| Ali Moradi | [Github](https://github.com/alimoradi85) |
 
