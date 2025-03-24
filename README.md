@@ -30,3 +30,4 @@ If you've finished the course, please add your name and github account in a Pull
 | Abolfazl Mirhoseini | [Github](https://github.com/Abolfazl-mrh) |
 | Mohammad Akbary | [Github](https://github.com/MohammadAky) | 
 | Hossein KorhaniShirazi | [Github](https://github.com/HosseinKoehaniShirazi) | 
+| Mohammad Ali Baghaei | [Github](https://github.com/Maziar1996) |
